@@ -21,7 +21,7 @@
                 <ul>
                     <li>I build Discord bots in Python, typically for my own server for automation.</li>
                     <li>Currently working on <a href="https://github.com/BinRoom-Devs/Aika-Yokina-BinRoom-Mascot-Discord-Bot">Aika Yokina</a>, my community mascot bot.</li>
-                    <li>Interested mainly in tweaking the bot's custom appearance response to the Discord UI. (In other universe, I would've became a frontend lmao).</li>
+                    <li>Interested mainly in tweaking the bot's custom appearance response to the Discord UI. (In another universe, I would've become a frontend lmao).</li>
                     <li>Outside programming (which is just one of my things that I enjoy doing), I'm mainly an anime-styled digital illustrator, intermediate graphic designer, language nerd, and musician (drummer).</li>
                 </ul>
 			</td>
@@ -32,29 +32,6 @@
 	</table>
 </p>
 
-## ⭐ Featured Project
-
-<div align="center">
-
-### 🌸 [Aika Yokina: BinRoom Mascot Discord Bot](https://github.com/BinRoom-Devs/Aika-Yokina-BinRoom-Mascot-Discord-Bot)
-
-*A community-made original character brought to life as a server mascot*
-
-[![Discord Server](https://discord.com/api/guilds/904972136328888340/widget.png?style=banner3)](https://github.com/BinRoom-Devs/Aika-Yokina-BinRoom-Mascot-Discord-Bot)
-
-</div>
-
-Aika is the mascot of the my Discord server, BinRoom. She's an OC created together by my members. She's built to make the server feel more alive, making it feels like she's present between us. Aika has two main jobs:
-
-- 🍯 Honeypot guard: watches a trap channel to catch accounts spamming crypto, phishing, and scam links
-- 💬 AI roleplay chatbot: chats in character in a dedicated channel (or when @mentioned), powered by Groq running Qwen 3.6 27B.
-- 🖼️ Image-aware replies: reacts to attachments like fan art or gameplay screenshots
-- 🧠 Per-user memory: remembers recent messages per person, with `memory-status` and `reset-memori` commands (both `ak!` prefix and `/` slash)
-- 🛡️ Content moderation through the Sightengine API
-- 🖼️ Generates a membership card for fun powered by Python's PIL.
-
-
-
 ## 🧰 Tech Stack
 
 **Core**
@@ -63,20 +40,6 @@ Aika is the mascot of the my Discord server, BinRoom. She's an OC created togeth
 ![discord.py](https://img.shields.io/badge/discord.py-5865F2?style=flat-square&logo=discord&logoColor=white)
 ![aiohttp](https://img.shields.io/badge/aiohttp-2C5BB4?style=flat-square&logo=aiohttp&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-**AI, APIs & Dashboards**
-
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
-![Qwen](https://img.shields.io/badge/Qwen-615CED?style=flat-square)
-![Sightengine](https://img.shields.io/badge/Sightengine-0B5FFF?style=flat-square)
-![NiceGUI](https://img.shields.io/badge/NiceGUI-5898D4?style=flat-square)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
 
 
 ## 📊 GitHub Stats
@@ -88,8 +51,6 @@ Aika is the mascot of the my Discord server, BinRoom. She's an OC created togeth
 
 </div>
 
-
-
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -99,6 +60,6 @@ Aika is the mascot of the my Discord server, BinRoom. She's an OC created togeth
 
 *⭐ If you like my projects, consider giving them a star!*
 
-That's it for now. Thanks for visitng a non-so-developer dev like me.
+That's it for now. Thanks for visiting a non-so-developer dev like me.
 
 </div>
