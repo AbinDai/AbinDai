@@ -58,6 +58,7 @@
     </tr>
   </table>
 </p>
+<div align="center"><small>Haven't coded since 2021 and abandoned my old bot. Now I just came back in favor of serving my own server/community with Aika :)</small></div>
 
 ## 🤝 Let's Connect
 
