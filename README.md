@@ -33,23 +33,21 @@
 </p>
 
 ## 🧰 Tech Stack
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![AsyncIO](https://img.shields.io/badge/AsyncIO-2C5BB4?style=for-the-badge&logo=python&logoColor=white)
 ![discord.py](https://img.shields.io/badge/discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![aiohttp](https://img.shields.io/badge/aiohttp-2C5BB4?style=for-the-badge&logo=aiohttp&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Pillow](https://img.shields.io/badge/Pillow-111111?style=for-the-badge&logo=python&logoColor=white)
+![Pillow](https://img.shields.io/badge/Pillow-cf639d?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ## 📊 GitHub Stats
-
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=AbinDai&show_icons=true&theme=discord_old_blurple&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbinDai&layout=compact&theme=discord_old_blurple&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbinDai&theme=dark&hide_border=true)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbinDai&theme=dark)
 
 </div>
 
