@@ -44,12 +44,20 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ## 📊 GitHub Stats
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbinDai&theme=dark&hide_border=true)
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbinDai&theme=dark)
-
-</div>
+<p align="center">
+  <table border="0" cellspacing="0" cellpadding="0" align="center" style="border:none !important; border-collapse:collapse; width: 100%; max-width: 900px; margin: 0 auto;">
+    <tr style="border:none !important;">
+      <td align="center" valign="middle" style="border:none !important; padding:0 5px; width: 50%;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbinDai&theme=dark" width="100%" style="display: block; border: none;" />
+      </td>
+      <td align="center" valign="middle" style="border:none !important; padding:0 5px; width: 50%;">
+        <a href="https://git.io/streak-stats">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbinDai&theme=dark&hide_border=true" width="100%" style="display: block; border: none;" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</p>
 
 ## 🤝 Let's Connect
 
