@@ -14,9 +14,9 @@
 
 
 <p align="center">
-    <table border="0" cellspacing="0" cellpadding="0" align="center" style="border:none !important; border-collapse:collapse; margin:2 auto;">
+    <table border="0" cellspacing="0" cellpadding="0" align="center" style="border:none !important; border-collapse:collapse; width: 100%; max-width: 900px; margin: 0 auto;">
 		<tr style="border:none !important;">
-			<td valign="middle" style="border:none !important; padding:0 10px; width: 60%;">
+			<td valign="top" style="border:none !important; padding:0 20px 0 10px; width: 60%;">
                 <h3>🤖 About Me</h3>
                 <ul>
                     <li>I build Discord bots in Python, typically for my own server for automation.</li>
@@ -25,8 +25,8 @@
                     <li>Outside programming (which is just one of my things that I enjoy doing), I'm mainly an anime-styled digital illustrator, intermediate graphic designer, language nerd, and musician (drummer).</li>
                 </ul>
 			</td>
-			<td align="center" valign="middle" style="border:none !important; padding:0 20px;">
-				<img src="https://lanyard.cnrad.dev/api/1524951093560213638?bg=48708c&theme=dark&animatedDecoration=true&hideActivity=whenNotUsed" height="350" style="max-width:100%; object-fit:contain; border:none;"/>
+			<td align="center" valign="middle" style="border:none !important; padding:0 10px;">
+				<img src="https://lanyard.cnrad.dev/api/1524951093560213638?bg=48708c&theme=dark&animatedDecoration=true&hideActivity=whenNotUsed" style="width: 100%; max-width: 350px; height: auto; object-fit: contain; border: none;"/>
 			</td>
 		</tr>
 	</table>
