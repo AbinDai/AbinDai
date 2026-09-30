@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hey there, Abin here</h1>
-  <h3>I'm a Python Discord bot developer. Nice to see you.</h3>h3
+  <h3>I'm a Python Discord bot developer. Nice to see you.</h3>
 	
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></img>
   <img src="https://img.shields.io/badge/Discord_Bots-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></img>
